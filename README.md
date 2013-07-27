@@ -26,7 +26,8 @@ bootstrap  http://http://twitter.github.io/bootstrap/
 
 서버와의 연동
 -------------
-작성중
+서버의 존재하는 데이터베이스의 CRUD를 처리하기 위해서는 서버 측에 이에 해당하는 기능을 구현하고 이를 호출할 수 있는 URL을 제공해야 합니다. 
+
 
 
 API
